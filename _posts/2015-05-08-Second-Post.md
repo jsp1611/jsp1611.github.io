@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: "Second post on the new blog"
 ---
 
 This is another bit of test in secondary post.
